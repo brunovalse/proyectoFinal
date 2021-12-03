@@ -1,0 +1,40 @@
+[
+    {
+      "precio": 200,
+      "id": 1,
+      "title": "ole",
+      "thumbnailUrl": "imagenes/ole.jpg"
+    },
+    {
+      "precio": 300,
+      "id": 2,
+      "title": "Billboard",
+      "thumbnailUrl": "imagenes/billboard.jpg"
+    },
+    {
+      "precio": 250,
+      "id": 3,
+      "title": "El Grafico",
+      "thumbnailUrl": "imagenes/elgrafico.jpg"
+    },
+    {
+      "precio": 300,
+      "id": 4,
+      "title": "Forbes",
+      "thumbnailUrl": "imagenes/forbes.jpg"
+    },
+    {
+      "precio": 100,
+      "id": 5,
+      "title": "Gente",
+      "thumbnailUrl": "imagenes/gente.jpg"
+    },
+    {
+      "precio": 150,
+      "id": 6,
+      "title": "Muy interesante",
+      "thumbnailUrl": "imagenes/muyinteresante.jpg"
+    }
+   
+     
+  ]

@@ -1,0 +1,39 @@
+[
+
+    {
+        "precio": 2000,
+        "id": 13,
+        "title": "Spiderman Y Los X-men",
+        "thumbnailUrl": "imagenes/spidermanxmen.jpg"
+      },
+      {
+        "precio": 1500,
+        "id": 14,
+        "title": "Wolverine",
+        "thumbnailUrl": "imagenes/wolverine.jpg"
+      },
+      {
+        "precio": 2300,
+        "id": 15,
+        "title": "Guardianes De La Galaxia",
+        "thumbnailUrl": "imagenes/guardianes.jpg"
+      },
+      {
+        "precio": 1800,
+        "id": 16,
+        "title": "Batman",
+        "thumbnailUrl": "imagenes/batman.jpg"
+      },
+      {
+        "precio": 1790,
+        "id": 17,
+        "title": "Superman",
+        "thumbnailUrl": "imagenes/superman.jpg"
+      },
+      {
+        "precio": 2350,
+        "id": 18,
+        "title": "Flash",
+        "thumbnailUrl": "imagenes/flash.jpg"
+      }
+]

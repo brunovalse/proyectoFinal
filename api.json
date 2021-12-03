@@ -1,0 +1,39 @@
+[
+
+    {
+        "precio": 2259,
+        "id": 7,
+        "title": "Dune",
+        "thumbnailUrl": "imagenes/dune.jpg"
+      },
+      {
+        "precio": 1470,
+        "id": 8,
+        "title": "Modelo De las Matematica",
+        "thumbnailUrl": "imagenes/cienciamatematica.jpg"
+      },
+      {
+        "precio": 2590,
+        "id": 9,
+        "title": "El Señor De Los Anillos",
+        "thumbnailUrl": "imagenes/elseñordelosanillos.jpg"
+      },
+      {
+        "precio": 3049,
+        "id": 10,
+        "title": "Harry Potter",
+        "thumbnailUrl": "imagenes/harrypotter.jpg"
+      },
+      {
+        "precio": 500,
+        "id": 11,
+        "title": "Instinto",
+        "thumbnailUrl": "imagenes/instinto.jpg"
+      },
+      {
+        "precio": 1280,
+        "id": 12,
+        "title": "Akasha",
+        "thumbnailUrl": "imagenes/akasha.jpg"
+      }
+]
